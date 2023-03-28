@@ -2,9 +2,6 @@
 #include <cmath>
 #include <vector>
 
-//Kerem Alpdag
-//20190702065
-
 float starPosX = 0.50f;
 float starPosY = 0.075f;
 
